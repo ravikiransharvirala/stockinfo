@@ -1,0 +1,6 @@
+BF.B
+BRK.B
+CRM
+GD
+MHK
+TMO
