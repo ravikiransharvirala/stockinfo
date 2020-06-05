@@ -4,3 +4,4 @@ requests_html
 numpy
 dash==1.12.0
 beautifulsoup4
+boto3

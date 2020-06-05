@@ -1,0 +1,7 @@
+pandas
+numpy
+yahoo_fin
+beautifulsoup4
+requests
+requests_html
+boto3
