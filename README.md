@@ -53,5 +53,4 @@ There are **five major categories** of metrics used while fundamentally picking 
 
 ### Data Pipelines
 1. DP1
-    - Dataframe structure
-        Symbol, Company Name, Sector, Industry, Stock Price, P/CF, Market Cap
+    - Dataframe structure: Symbol, Company Name, Sector, Industry, Stock Price, P/CF, Market Cap

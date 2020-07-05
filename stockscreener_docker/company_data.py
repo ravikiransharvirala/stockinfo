@@ -325,8 +325,8 @@ def get_company_metrics():
     s3 = boto3.client(
     's3',
     # Hard coded strings as credentials, not recommended.
-    aws_access_key_id="AKIAVYQC3EVSFBJROO4K",
-    aws_secret_access_key="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")
+    aws_access_key_id="",
+    aws_secret_access_key="")
     now = datetime.now()
     dt = now.strftime("%Y_%m_%d")
     #ticker_functions = [si.tickers_dow, si.tickers_nasdaq, si.tickers_sp500]
