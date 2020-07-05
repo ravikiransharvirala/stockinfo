@@ -47,4 +47,11 @@ There are **five major categories** of metrics used while fundamentally picking 
 
 
 
+### Data to explore with financials and stock data
+1. How do I find the most undervalued company based on financials?
+    - P/CF or P/FCF (Price to Cash Flow or Price to Free Cash Flow) - **DP1**
 
+### Data Pipelines
+1. DP1
+    - Dataframe structure
+        Symbol, Company Name, Sector, Industry, Stock Price, P/CF, Market Cap
